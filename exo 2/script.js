@@ -1,10 +1,10 @@
 var nom;
-nom = "Nom :Doe";
+nom = "Nom : Doe";
 
 var prenom;
-prenom = "Prénom: John";
+prenom = "Prénom : John";
 
 var ville;
-ville = "Ville: New-York";
+ville = "Ville : New-York";
 
-alert (nom + prenom + ville);
+alert (nom + "\n" + prenom + "\n" + ville);
